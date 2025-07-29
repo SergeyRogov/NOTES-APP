@@ -7,7 +7,7 @@ This app allows you:
 ![Demo](update.PNG)
 
 3. See all created notes
-![Demo](allnotes.PNG)
+![Demo](allnotes.png)
 
 4. Delete notes and see tip:
 ![Demo](nonotes.PNG)
